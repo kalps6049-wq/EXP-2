@@ -63,13 +63,15 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics:
+<img width="882" height="796" alt="Screenshot 2025-12-16 202823" src="https://github.com/user-attachments/assets/1efe6750-6514-4e1e-a8e6-ba72be6893b4" />
 
-[magnetisation charecteristics of DC shunt.pdf](https://github.com/user-attachments/files/24193976/magnetisation.charecteristics.of.DC.shunt.pdf)
 
 
   
 Load Characteristics:
-[load charecteristics of DC shunt.pdf](https://github.com/user-attachments/files/24193981/load.charecteristics.of.DC.shunt.pdf)
+<img width="874" height="675" alt="Screenshot 2025-12-16 202842" src="https://github.com/user-attachments/assets/7151df43-e48d-4e95-a58a-0a122c81181b" />
+
+
 
  
 Result:
